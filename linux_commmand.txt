@@ -1,0 +1,13 @@
+1- ls -ltrh
+
+# this command use to see the file in current directory
+
+2- pwd
+
+# this command use to se currect directory path 
+
+3- whoami
+
+# this tell us the user name which as we logged in
+
+
