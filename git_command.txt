@@ -1,0 +1,10 @@
+git add= to add the file with github
+git push = to push current file or folder in github
+ls -lstrha = to show hidden files
+git vcs= stand for version control system
+git commit -m = is use for show file small intro
+in git have threee phase = A working area / working dir
+                           b  staying area
+			   c  commite area
+ 
+
